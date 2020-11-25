@@ -1,0 +1,16 @@
+/workspace/muke/AutoTest2/src/main/java/com/tester/model/UpdateUserInfoCase.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/cases/GetUserInfoListTest.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/model/User.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/model/LoginCase.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/utils/DatabaseUtil.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/config/TestConfig.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/cases/AddUserTest.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/cases/GetUserInfoTest.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/model/InterfaceName.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/model/GetUserInfoCase.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/cases/UpdateUserInfoTest.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/config/ExtentTestNGIReporterListener.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/model/AddUserCase.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/model/GetUserListCase.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/utils/ConfigFile.java
+/workspace/muke/AutoTest2/src/main/java/com/tester/cases/LoginTest.java

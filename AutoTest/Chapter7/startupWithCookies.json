@@ -9,6 +9,9 @@
       "cookies":{
         "login":"true"
       },
+      "headers":{
+        "Content-Type":"text/html;charset=utf-8"
+      },
       "text":"恭喜你获得cookies信息成功"
     }
 
