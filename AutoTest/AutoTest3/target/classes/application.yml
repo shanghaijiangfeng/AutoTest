@@ -1,5 +1,5 @@
 server:
-   port: 8888
+   port: 8080
 
 logging:
     path: logs
@@ -10,10 +10,10 @@ spring:
    application:
           name: report
    datasource:
-       driver-class-name: com.mysql.jdbc.Driver
-       url: jdbc:mysql://192.168.1.7:3306/course
-       username: admin
-       password: 123456
+       driver-class-name: com.mysql.cj.jdbc.Driver
+       url: jdbc:mysql://192.168.0.12:3306/course?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT
+       username: root
+       password: 199488
 
 mybatis:
     type-aliases-package: com.course.model

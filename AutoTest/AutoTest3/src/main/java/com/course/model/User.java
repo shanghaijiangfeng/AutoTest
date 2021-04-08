@@ -12,4 +12,5 @@ public class User {
     private String permission;
     private String isDelete;
 
+
 }
